@@ -10,3 +10,4 @@ const logIn = function () {
   }
 };
 logButton.addEventListener("click", logIn);
+console.log("email is xyz@gmail.com and the password is 12345");
