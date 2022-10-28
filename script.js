@@ -1,0 +1,12 @@
+"use strict";
+const logButton = document.querySelector(".login");
+const logIn = function () {
+  const a = document.querySelector(".email").value;
+  const b = document.querySelector(".password").value;
+  if (a == "xyz@gmail.com" && b == "12345") {
+    window.location.href = "mainpage.html";
+  } else {
+    alert("Your password or email is wrong");
+  }
+};
+logButton.addEventListener("click", logIn);
