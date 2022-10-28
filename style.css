@@ -69,10 +69,9 @@ p {
   height: 100px;
   width: 300px;
   font-size: 50px;
-  align-self: center;
-  justify-self: center;
   margin-bottom: 20px;
 }
+
 .other-option {
   position: absolute;
   margin-left: 1200px;
