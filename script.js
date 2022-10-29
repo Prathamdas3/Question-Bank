@@ -4,7 +4,7 @@ const logIn = function () {
   const a = document.querySelector(".email").value;
   const b = document.querySelector(".password").value;
   if (a == "xyz@gmail.com" && b == "12345") {
-    window.location.href = "mainpage.html";
+    window.location.href = "main.html";
   } else {
     alert("Your password or email is wrong");
   }
