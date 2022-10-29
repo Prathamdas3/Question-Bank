@@ -110,6 +110,8 @@ h2 {
 }
 .logout {
   margin: 20px;
+  color: red;
+  cursor: pointer;
 }
 .about {
   font-size: 24px;
