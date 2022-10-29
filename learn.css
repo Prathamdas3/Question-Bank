@@ -64,4 +64,5 @@ header {
 .ex {
   margin: 20px;
   padding: 10px;
+  cursor: pointer;
 }
