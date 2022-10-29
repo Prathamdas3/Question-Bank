@@ -78,3 +78,41 @@ h2 {
   margin: 40px;
   cursor: pointer;
 }
+.hide {
+  /* display:none; */
+}
+
+.profilepage {
+  position: absolute;
+  height: 600px;
+  width: 300px;
+  background-color: gray;
+  border-radius: 10px;
+}
+.flex2 {
+  display: grid;
+  grid-template-columns: 300px;
+  grid-template-rows: 200px 200px 200px;
+}
+.profile1 {
+  margin: 20px 110px;
+  padding: 10px;
+}
+.top {
+  grid-row: 1/2;
+}
+.bottom {
+  margin-top: 80px;
+  grid-row: 3/4;
+}
+.logout {
+  margin: 20px;
+}
+.about {
+  font-size: 24px;
+  margin-left: 30px;
+}
+.line {
+  border-bottom: 3px black solid;
+  margin-top: 10px;
+}
