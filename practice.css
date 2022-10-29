@@ -1,0 +1,79 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.back {
+  font-size: 48px;
+  cursor: pointer;
+}
+header {
+  font-size: 50px;
+  margin-left: 30px;
+}
+.filter {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+.pastyear {
+  width: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+.sem {
+  width: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+.dept {
+  width: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+.mark {
+  width: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+.subject {
+  width: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+.topic {
+  width: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+.time {
+  width: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+.exam {
+  width: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+.pa {
+  margin: 30px;
+  font-size: 32px;
+  font-weight: bold;
+}
