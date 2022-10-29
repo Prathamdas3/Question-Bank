@@ -25,6 +25,7 @@ h2 {
   border-radius: 10px;
   border: 3px solid black;
   padding: 20px;
+  color: white;
 }
 .search::placeholder {
   font-size: 32px;
@@ -46,4 +47,34 @@ h2 {
   height: 80px;
   width: 80px;
   margin-right: 40px;
+}
+.hidden {
+  display: none;
+}
+.behind {
+  background-color: beige;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+.flex1 {
+  display: flex;
+  justify-content: space-between;
+}
+.search2 {
+  margin: 40px;
+  height: 70px;
+  width: 95%;
+  border-radius: 10px;
+  border: 3px solid black;
+  padding: 20px;
+  font-size: 32px;
+}
+.search2::placeholder {
+  font-size: 32px;
+}
+.close {
+  font-size: 60px;
+  margin: 40px;
+  cursor: pointer;
 }
