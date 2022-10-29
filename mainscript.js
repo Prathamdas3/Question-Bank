@@ -18,5 +18,8 @@ practice.addEventListener("click", function () {
   window.location.href = "practice.html";
 });
 profile.addEventListener("click", function () {
-  window.location.href = "profile.html";
+  document.querySelector(".profilepage").classList.remove("hide");
+});
+document.querySelector(".profile1").addEventListener("click", function () {
+  document.querySelector(".profilepage").classList.add("hide");
 });
