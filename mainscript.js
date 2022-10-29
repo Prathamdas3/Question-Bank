@@ -23,3 +23,6 @@ profile.addEventListener("click", function () {
 document.querySelector(".profile1").addEventListener("click", function () {
   document.querySelector(".profilepage").classList.add("hide");
 });
+document.querySelector(".logout").addEventListener("click", function () {
+  window.location.href = "index.html";
+});
