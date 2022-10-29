@@ -5,8 +5,12 @@ const practice = document.querySelector(".practice");
 const profile = document.querySelector(".profile");
 
 search.addEventListener("click", function () {
-  window.location.href = "Searchpage.html";
+  document.querySelector(".behind").classList.remove("hidden");
 });
+document.querySelector(".close").addEventListener("click", function () {
+  document.querySelector(".behind").classList.add("hidden");
+});
+
 learn.addEventListener("click", function () {
   window.location.href = "learn.html";
 });
