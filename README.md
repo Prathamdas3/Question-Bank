@@ -4,7 +4,7 @@
 
 We want to give a tour of our demo project please be with us:
 
-1. Welcome to our first page ![Sign-in page](sign-in.png) this is the log in page of our site to log in use the `gmail:xyz@gmail.com` and for `password:12345`
+1. Welcome to our first page.This is the login/signup page of our website. To login use the mail address as `gmail:xyz@gmail.com` and for `password:12345`![Sign-in page](sign-in.png) 
 2. Now you are in our main page ![main page](main.png)
 3. In main page we have four sections which are
    1. **Search section** Here you can search any type of question you like. On clicking it you can see a pop up will rise and there you are able to type any questions.
