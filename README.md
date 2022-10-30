@@ -4,10 +4,10 @@
 
 We want to give a tour of our demo project please be with us:
 
-1. welcome to our first page ![Sign-in page](sign-in.png) this is the log in page of our site to log in use the `gmail:xyz@gmail.com` and for `password:12345`
+1. Welcome to our first page ![Sign-in page](sign-in.png) this is the log in page of our site to log in use the `gmail:xyz@gmail.com` and for `password:12345`
 2. Now you are in our main page ![main page](main.png)
 3. In main page we have four sections which are
-   1. **Search section** Here you can search any type of question you like, On clicking it you can see a pop up will rise and there you are able to type any questions.
+   1. **Search section** Here you can search any type of question you like. On clicking it you can see a pop up will rise and there you are able to type any questions.
    2. **Learn section** Here you can learn any new or old topics according to your filters
    3. **Practice section** Here you can practice your previous knowledge on various topics
    4. **Profile section** Here you can access the profile,settings, and other sections.
