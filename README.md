@@ -19,8 +19,10 @@ We want to give a tour of our demo project please be with us:
 5. If you clicked the **"Practice Today"** tab then you are now in the **"Exam Time"** page. ![practice page](practice.png)
    1. Here you can give exam on any of the papers present. You can find the paper you want to give exam on with the help of the filters present.
    2. Here you also see many demo question papers.
-   3. If you click on the first question you will be able to see the questions. On clicking the answer tab you will bw able to see the answer of it.
-   4. At the right hand top corner of it the Time and Marks obtained will alse be showed.
+   3. On clicking on the first paper **"Paper-1"** you will be able to see the questions. 
+   4. On clicking the answer tab of any particular question you will be able to see the answer of it(not updated yet).
+   5. At the right hand top corner of it the **Time** and **Marks** obtained will alse be showed.
+   6. If anyone clicks on the back icon at the left hand top corner of the page knowingly or unknowingly then it dosen't get back at once but it shows a confirmation tab to **Quit** or to **Continue**.
 
 # Problems
 
