@@ -36,4 +36,6 @@ As it is a rough project so many pages are under construction. Because of our li
 2. We don't have good UI too.
 3. Due to our lack of knowledge in college exams and other things. For this reason many of the filters are still empty.
 4. We still don't have the database of all questions or any previous year question papers and any solution of it, which is very much required. And the sample questions and answers needs to be updated with the actual ones.
+
+
                                                          **--THANK YOU, HOPE THE JUDGES WILL LIKE OUR PROJECT--**
