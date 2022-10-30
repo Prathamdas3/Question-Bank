@@ -4,6 +4,8 @@
 
 We want to give a tour of our demo project please be with us:
 
+**Please zoom the page according to the your liking. WE RECOMMEND TO ZOOM OUT TO SEE ALL THE TABS AND CONTENTS**
+
 1. Welcome to our first page.This is the login/signup page of our website. To login use the mail address as `xyz@gmail.com` and for password use `12345`![Sign-in page](sign-in.png) 
 2. Now this is our main page. ![main page](main.png)
 3. In main page we have four sections which are
@@ -26,11 +28,11 @@ We want to give a tour of our demo project please be with us:
 
 # Problems
 
-As it is a demo project so many pages are under construction, For the lack of our knowledge there are bugs in this project
+As it is a rough project so many pages are under construction. Because of our limited knowledge there are some bugs in this project. Some are:
 
-1. One of the bugs which we have recognized is "positioning issue for this problem different zoom labels see the page differently".
-
-   - **To solve this please set the page according to your liking**
-
+1. One of the bugs which we have recognized is that each page at each zoom percentage works differently and all the contents of it are not shown properly. There is some positoning issue of the tabs as the move away to an inappropriate position when they are at different zoom levels.
+   - **Please zoom the page according to the your liking. WE RECOMMEND TO ZOOM OUT TO SEE ALL THE TABS AND CONTENTS.*
 2. We don't have good UI too.
-3. Due to our lack of knowledge on college exams and other things, for this many of the filters are still empty.
+3. Due to our lack of knowledge in college exams and other things. For this reason many of the filters are still empty.
+4. We still don't have the databse of all questions or any previous year question papers and any solution of it which is required to be uploaded t update the sample question and answers.
+                                                         --THANK YOU, HOPE THE JUDGES WILL LIKE OUR PROJECT--
