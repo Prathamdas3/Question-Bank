@@ -2,7 +2,7 @@
 
 **Question Bank** is a repository for my project which is done by our team. It is a project where we have a demo of my website which does the same job as the name suggests, it is a question bank for college students who require previous year questions for their upcomming exams. In this project there are features to read questions and give practice tests too on several topics. It serves as a complete guide to get ready for any exam.
 
-_To view the actual website please click on the green coloured **CODE** button at right hand top portion. From there please download the zip file. A zip file named **Question-Bank-master** will be donloaded. After downloading please unzip it and open the Question-Bank-master folder. There you will find "**index.html**" clicking on which, our actual website will get opened_
+_"To view the actual website please click on the green coloured **CODE** button at right hand top portion. From there please download the zip file. A zip file named **Question-Bank-master** will be donloaded. After downloading please unzip it and open the Question-Bank-master folder. There you will find "**index.html**" clicking which, our actual website will get opened"_
 
 We want to give a tour of our demo project please be with us:
 
@@ -37,4 +37,4 @@ As it is a rough project so many pages are under construction. Because of our li
 3. Due to our lack of knowledge in college exams and other things. For this reason many of the filters are still empty.
 4. We still don't have the database of all questions or any previous year question papers and any solution of it, which is very much required. And the sample questions and answers needs to be updated with the actual ones.
 
-                                                **--THANK YOU, HOPE THE JUDGES WILL LIKE OUR PROJECT--**
+                                                --THANK YOU, HOPE THE JUDGES WILL LIKE OUR PROJECT--
