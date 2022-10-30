@@ -18,7 +18,9 @@ We want to give a tour of our demo project please be with us:
    2. If you click the Question 1 then you will be on the question and answer details page where you can read the answer. There is a '+' icon at the right bottom corner of the page(please zoom out to find it). The plus button will enable a user to add any answer he/she wishes either by typing or by adding an image.
 5. If you clicked the **"Practice Today"** tab then you are now in the **"Exam Time"** page. ![practice page](practice.png)
    1. Here you can give exam on any of the papers present. You can find the paper you want to give exam on with the help of the filters present.
-   2. Here you also see many demo question papers if you click on the first one then you can go to the question paper and solve the questions
+   2. Here you also see many demo question papers.
+   3. If you click on the first question you will be able to see the questions. On clicking the answer tab you will bw able to see the answer of it.
+   4. At the right hand top corner of it the Time and Marks obtained will alse be showed.
 
 # Problems
 
