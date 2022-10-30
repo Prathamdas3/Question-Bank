@@ -33,5 +33,5 @@ As it is a rough project so many pages are under construction. Because of our li
 1. One of the bugs which we have recognized is that each page at each zoom percentage works differently and all the contents of it are not shown properly. There is some positoning issue of the tabs as the move away to an inappropriate position when they are at different zoom levels. So presently you need to zoom accordingly to see all the contents of the website.
 2. We don't have good UI too.
 3. Due to our lack of knowledge in college exams and other things. For this reason many of the filters are still empty.
-4. We still don't have the databse of all questions or any previous year question papers and any solution of it, which is very much required. With those the sample quesstion and answers needs to be updated.
+4. We still don't have the database of all questions or any previous year question papers and any solution of it, which is very much required. And the sample questions and answers needs to be updated with the actual ones.
                                                          --THANK YOU, HOPE THE JUDGES WILL LIKE OUR PROJECT--
