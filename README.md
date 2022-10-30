@@ -9,8 +9,8 @@ We want to give a tour of our demo project please be with us:
 3. In main page we have four sections which are
    1. **Search section** Here you can search any type of question you like. On clicking it you can see a drop down menu will appear and in the search bar you will be able to any type of question you want.
    2. In the **Learn today** section you can learn any new or old topics according to the filters you wish.
-   3. **Practice section** Here you can practice your previous knowledge on various topics
-   4. **Profile section** Here you can access the profile,settings, and other sections.
+   3. In the **Practice section** you can practice your previous knowledge on various topics.
+   4. In the **Profile section** you can access the profile,settings and other sections.
       - By clicking the image you can get into the other sections
       - And by clicking the inner profile image you can come out from the section
 4. If you clicked the learn section then you are now in the learn page ![learn page](learn.png)
