@@ -1,6 +1,6 @@
 # Question-Bank
 
-**Question Bank** is a repository for my project which is done by our team.It is a project where we have a demo of my website which does the same job as name suggests, its a question bank for college students who are tensed about there upcoming exam. In this project there are features to read questions and give practice sets on the topics. It's like a complete guid to get ready for any exam.
+**Question Bank** is a repository for my project which is done by our team. It is a project where we have a demo of my website which does the same job as the name suggests, it is a question bank for college students who require previous year questions for their upcomming exams. In this project there are features to read questions and give practice tests too on several topics. It serves as a complete guide to get ready for any exam.
 
 We want to give a tour of our demo project please be with us:
 
