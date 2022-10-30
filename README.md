@@ -13,10 +13,10 @@ We want to give a tour of our demo project please be with us:
    4. In the **Profile icon** at the top right you can access the profile, settings, about us and also logout.
       - By clicking the profile icon you can get into the options of the profile menu and see the options present there.
       - And by clicking the profile image inside the menu you can come out from the section.
-4. If you click the learn today tab then you will be in the Hi!Let's Do It page ![learn page](learn.png)
-   1. Here you can see many kind of filters to help you to reach the desire question for which you are searching.
-   2. If you click the question 1 then you will be on the question-answer details page there you can read the answer and if you click on the plus button then you can add your answer either by typing or by adding a image to the question too.
-5. If you clicked the practice section then you are now in the practice page ![practice page](practice.png)
+4. If you click the "Learn Today" tab then you will be in the Hi!Let's Do It page. ![learn page](learn.png)
+   1. Here you will find several questions there where you can learn any new or old topics. You can also find the appropriate type of questions you want using the filters present there.
+   2. If you click the Question 1 then you will be on the question and answer details page where you can read the answer. There is a '+' icon at the right bottom corner of the page(please zoom out to find it). The plus button will enable a user to add any answer he/she wishes either by typing or by adding an image.
+5. If you clicked the "Practice Section" tab then you are now in the Exam Time page. ![practice page](practice.png)
    1. Here you can see many kind of filters to set a questions on your most wanted topics
    2. Here you also see many demo question papers if you click on the first one then you can go to the question paper and solve the questions
 
