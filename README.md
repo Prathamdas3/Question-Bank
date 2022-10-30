@@ -24,9 +24,9 @@ We want to give a tour of our demo project please be with us:
 
 As it is a demo project so many pages are under construction, For the lack of our knowledge there are bugs in this project
 
-1. One of the bugs which we have recognized is "positioning issue for this problem different zoom labels see the page differently "
+1. One of the bugs which we have recognized is "positioning issue for this problem different zoom labels see the page differently".
 
    - **To solve this please set the page according to your liking**
 
-2. We don't have good ui too
-3. Due to our lack of knowledge on college exams and other things, for this many of the filters are still empty
+2. We don't have good UI too.
+3. Due to our lack of knowledge on college exams and other things, for this many of the filters are still empty.
