@@ -3,9 +3,7 @@
   margin: 0px;
   box-sizing: border-box;
 }
-.container {
-  margin-top: 300px;
-}
+
 h2 {
   font-size: 48px;
   margin-left: 40px;
@@ -16,8 +14,11 @@ h2 {
   margin-bottom: 50px;
 }
 .div1 {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+
+  justify-items: center;
 }
 .search {
   height: 70px;
@@ -39,8 +40,11 @@ h2 {
   margin-top: 50px;
 }
 .div2 {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  align-items: center;
 }
 
 .profile {
@@ -79,28 +83,13 @@ h2 {
   margin: 40px;
   cursor: pointer;
 }
-.hide {
-  display: none;
-}
 
-.profilepage {
-  position: absolute;
-  height: 600px;
-  width: 300px;
-  background-color: gray;
-  border-radius: 10px;
-  margin-left: 1550px;
-  margin-top: -500px;
-}
 .flex2 {
   display: grid;
   grid-template-columns: 300px;
   grid-template-rows: 200px 200px 200px;
 }
-.profile1 {
-  margin: 20px 110px;
-  padding: 10px;
-}
+
 .top {
   grid-row: 1/2;
 }
@@ -120,4 +109,32 @@ h2 {
 .line {
   border-bottom: 3px black solid;
   margin-top: 10px;
+}
+.two {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+}
+.hide {
+  display: none;
+}
+.profilepage {
+  grid-row: 1/2;
+  height: 600px;
+  width: 300px;
+  background-color: gray;
+  border-radius: 10px;
+  justify-self: flex-end;
+  margin-right: 10px;
+
+  position: absolute;
+  margin-top: 150px;
+}
+.profile1 {
+  margin: 20px 110px;
+  padding: 10px;
+}
+.container {
+  margin-top: 300px;
+  grid-row: 1/2;
 }
