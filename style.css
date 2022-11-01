@@ -5,60 +5,63 @@
 }
 
 h2 {
-  text-align: center;
   font-size: 60px;
+  margin-bottom: 100px;
 }
-.email {
-  height: 50px;
-  width: 400px;
-  border: none;
-  border-bottom: 3px solid black;
-  font-size: 24px;
-  margin-bottom: 20px;
+body {
+  display: grid;
+  justify-items: center;
 }
-.email::placeholder {
-  font-size: 24px;
+.all {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 100%;
+  justify-items: center;
+  align-items: center;
 }
+.div1 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(3, 1fr);
+}
+
+.email,
 .password {
   height: 50px;
-  width: 400px;
+  width: 500px;
   border: none;
   border-bottom: 3px solid black;
   font-size: 24px;
   margin-bottom: 20px;
 }
+.email::placeholder,
 .password::placeholder {
   font-size: 24px;
 }
+
 .login {
   font-size: 24px;
   height: 50px;
-  width: 360px;
+  width: 500px;
   margin: 10px;
+  padding: 10px;
 }
 .horizentalrule {
   border-left: 3px solid black;
   height: 750px;
-  position: absolute;
+
   left: 50%;
-  margin-left: -4px;
+
   top: 120px;
 }
 p {
   font-size: 24px;
 }
-.div2 {
-  position: absolute;
-  margin-left: 200px;
-}
+
 .signuplink {
   font-size: 30px;
 }
-.div1 {
-  position: absolute;
-  margin-left: 300px;
-  margin-top: 300px;
-}
+
 .img {
   height: 50px;
   width: 50px;
@@ -67,13 +70,7 @@ p {
 }
 .button {
   height: 100px;
-  width: 300px;
+  width: 500px;
   font-size: 50px;
   margin-bottom: 20px;
-}
-
-.other-option {
-  position: absolute;
-  margin-left: 1200px;
-  margin-top: 250px;
 }
