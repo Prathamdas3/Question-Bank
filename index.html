@@ -10,49 +10,54 @@
   </head>
   <body>
     <h2>Sign IN</h2>
-    <form method="post" name="myFrom" class="div1">
-      <div>
-        <input
-          type="email"
-          name="emailAdd"
-          placeholder="Enter Your Email"
-          class="email"
-        />
+    <div class="all">
+      <section class="first-section">
+        <form method="post" name="myFrom" class="div1">
+          <input
+            type="email"
+            name="emailAdd"
+            placeholder="Enter Your Email"
+            class="email"
+          />
+          <input
+            type="password"
+            name="password"
+            placeholder="Enter Your password"
+            class="password"
+          />
+          <button type="button" name="logButton" value="LOG IN" class="login">
+            LOG IN
+          </button>
+          <div class=".div2">
+            <p>or <a href="signuppage.html" class="signuplink">Sign Up</a></p>
+          </div>
+        </form>
+      </section>
+      <div class="vertical-rule">
+        <hr class="horizentalrule" />
       </div>
-      <div>
-        <input
-          type="password"
-          name="password"
-          placeholder="Enter Your password"
-          class="password"
-        />
-      </div>
-      <div>
-        <button type="button" name="logButton" value="LOG IN" class="login">
-          LOG IN
-        </button>
-      </div>
-      <div class=".div2">
-        <p>or <a href="signuppage.html" class="signuplink">Sign Up</a></p>
-      </div>
-    </form>
-    <div class="vertical-rule">
-      <hr class="horizentalrule" />
-    </div>
-    <div class="other-option">
-      <button class="button facebook">
-        <img src="facebook.png" alt="facebook-image" class="img facebookimg" />
-        Facebook
-      </button>
-      <br />
-      <button class="button google">
-        <img src="google.png" alt="google-image" class="img googleimg" /> Google
-      </button>
-      <br />
-      <button class="button github">
-        <img src="github.png" alt="github-image" class="img githubimg" /> Github
-      </button>
-      <br />
+      <section class="second-section">
+        <div class="other-option">
+          <button class="button facebook">
+            <img
+              src="facebook.png"
+              alt="facebook-image"
+              class="img facebookimg"
+            />
+            Facebook
+          </button>
+          <br />
+          <button class="button google">
+            <img src="google.png" alt="google-image" class="img googleimg" />
+            Google
+          </button>
+          <br />
+          <button class="button github">
+            <img src="github.png" alt="github-image" class="img githubimg" />
+            Github
+          </button>
+        </div>
+      </section>
     </div>
     <script src="script.js"></script>
   </body>
