@@ -39,6 +39,7 @@ h3 {
   grid-template-rows: 50px 50px;
   grid-template-columns: 250px;
   gap: 20px;
+  margin-left: 10px;
 }
 .quit {
   height: 50px;
